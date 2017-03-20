@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/spark_wp.iml" filepath="$PROJECT_DIR$/.idea/spark_wp.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/wordpress.iml" filepath="$PROJECT_DIR$/.idea/wordpress.iml" />
+>>>>>>> themes
     </modules>
   </component>
 </project>
